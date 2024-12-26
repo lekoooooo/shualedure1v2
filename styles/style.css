@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "hanken";
-  src: url(/fonts/HankenGrotesk-Regular.ttf);
+  src: url("../fonts/HankenGrotesk-Regular.ttf");
 }
 body {
   width: 1920px;
